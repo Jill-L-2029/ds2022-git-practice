@@ -7,3 +7,5 @@ git add -A
 git status
 
 git commit -m "Add hello.py and README.md"
+
+git push -u origin main
